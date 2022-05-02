@@ -1,0 +1,27 @@
+url,type,protocol,method,json request
+https://my-rpg.pl/SSLProxies.txt,text,null,null,null
+https://www.proxy-list.download/api/v1/get?type=socks4,text,socks4,null,null
+https://www.proxy-list.download/api/v1/get?type=https,text,https,null,null
+https://www.proxy-list.download/api/v1/get?type=socks5,text,socks5,null,null
+https://www.proxy-list.download/api/v1/get?type=http,text,http,null,null
+https://rmccurdy.com/.scripts/proxy/good.txt,text,null,null,null
+http://megawarez.nnhost.ru/os/proxyc/forsale.txt,text,null
+http://othersrvr.com/noa/proxies.txt,text
+https://www.freeproxychecker.com/result/http_proxies.txt,text,http
+https://www.freeproxychecker.com/result/socks4_proxies.txt,text,socks4
+https://www.freeproxychecker.com/result/socks5_proxies.txt,text,socks5
+https://ab57.ru/downloads/proxylist.txt,text
+http://smeal.sk/huge_proxy_list.txt,text
+https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list.txt, text
+https://raw.githubusercontent.com/ysc/superword/443874b0c2e3e09701258484284e25d632404d98/src/main/resources/proxy_ips.txt,text
+https://raw.githubusercontent.com/ysc/superword/443874b0c2e3e09701258484284e25d632404d98/src/main/resources/proxy_ips_excellent.txt,text
+http://nottotrack.com/proxy/proxy.txt,text
+https://multiscraper.com/public/files/proxy.txt,text
+http://skill-gamer.ru/proxy/freeproxy2.txt,text
+http://rootjazz.com/proxies/proxies.txt,text
+http://www.olaf4snow.com/public/proxy.txt,text
+http://api.foxtools.ru/v2/Proxy.txt,text
+http://blazingcable.com/slist.txt,text
+https://gimmeproxy.com/api/getProxy?ipPort=true&protocol=socks5,text,socks5
+https://gimmeproxy.com/api/getProxy?ipPort=true&protocol=socks4,text,socks4
+https://gimmeproxy.com/api/getProxy?ipPort=true&protocol=http,text,http
